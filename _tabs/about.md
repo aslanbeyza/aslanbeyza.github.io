@@ -1,6 +1,6 @@
 ---
 title: Hakkımda
-layout: page
+layout: 
 icon: fas fa-user
 order: 1
 ---

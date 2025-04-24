@@ -16,7 +16,7 @@ timezone: Europe/Istanbul
 
 title: BEYZA ASLAN # the main title
 
-tagline: Yazılım Mühendisi 🧚 # it will display as the subtitle
+tagline: Yazılım Mühendisi # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Kişisel blog sitem.
@@ -131,7 +131,7 @@ comments:
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
   self_host:
-    enabled: false
+    enabled:
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
@@ -169,7 +169,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -191,6 +190,14 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
+  - scope:
+      path: assets/js/dist
+    values:
+      swcache: true
 
 sass:
   style: compressed
@@ -213,6 +220,7 @@ exclude:
   - LICENSE
   - purgecss.js
   - rollup.config.js
+  - node_modules
   - "package*.json"
 
 jekyll-archives:
