@@ -12,6 +12,10 @@ Merhaba! Ben **Beyza Aslan**, **Frontend Developer** olarak çalışan bir yazı
 
 Eğitim:
 
+- **Huawei + 4 aylık Huawei Cloud DevOps Bootcamp**
+  - Mezuniyet yılı: 2025
+  - Docker, Kubernetes, CI/CD, DevSecOps, Redis, Elasticsearch, FunctionGraph, APIG gibi teknolojilerle bulut tabanlı uygulama geliştirme ve yönetimi üzerine uygulamalı eğitimler aldım.
+ 
 - **OnlyJS + 8 aylık Frontend Web Development Bootcamp**
   - Mezuniyet yılı: 2024
   - React, TypeScript, Express.js ve JavaScript kullanarak  proje geliştirdim ve yüksek performanslı, duyarlı web uygulamaları oluşturdum.
