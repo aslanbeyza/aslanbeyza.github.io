@@ -22,7 +22,9 @@ Eğitim:
 
 - **Kırklareli Üniversitesi, Yazılım Mühendisliği**  
   - Mezuniyet yılı: 2025
-  - Yazılım mühendisliği bölümü. GDG Kırklareli'nde tasarım ekibine katkı sağladım, teknoloji etkinlikleri için görsel materyaller ve marka kimliği oluşturduk.
+  - Yazılım mühendisliği bölümü.
+  - GDG Kırklareli'nde tasarım ekibine katkı sağladım, teknoloji etkinlikleri için görsel materyaller ve marka kimliği oluşturduk.
+  - Üniversitemiz kapsamında BahçeŞehir Koleji İlkokul öğrencilerine 🐼mBlock eğitimi verdim.
 
 Profesyonel Deneyim:
 
