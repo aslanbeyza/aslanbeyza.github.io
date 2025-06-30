@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+# Ruby 3.4 ile uyumlu en son Chirpy sürümü
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
 gem "jekyll-paginate"
